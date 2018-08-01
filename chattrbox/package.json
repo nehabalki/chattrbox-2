@@ -1,0 +1,26 @@
+{
+  "name": "chattrbox",
+  "version": "1.0.0",
+  "description": "graduateproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "diet": "^0.16.0",
+    "diet-cookies": "^1.0.0",
+    "diet-static": "^2.2.0",
+    "ect": "^0.5.9",
+    "mime-types": "^2.1.19",
+    "mine": "^0.1.0",
+    "npm": "^6.2.0",
+    "ws": "^6.0.0"
+  }
+}
